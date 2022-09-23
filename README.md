@@ -1,32 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paula
-=============================================================================================================================
+# Hello, folks! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" height="30px" />
 
-Full stack software engineer in the making
-------------------------------------------
+My name is Paula Isabel and I'm a full stack software engineer. I'm from the Philippines. 
 
-* 🌍  I'm based in Philippines
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  K-pop, Kdramas, Open Source
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-SASS-informational?style=flat&logo=sass&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=figma&logoColor=white&color=ffed00)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=ffed00)
 
-<a href="https://www.twitter.com/codewithpau" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/codewithpau?logo=twitter&style=for-the-badge&color=a855f7&labelColor=171717"
-/></a><a href="https://www.github.com/paulaxisabel" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/paulaxisabel?logo=github&style=for-the-badge&color=a855f7&labelColor=171717" /></a>
+## &#x1f4c8; Stats
 
-### Socials
+<a href="https://github.com/paulaxisabel/paulaxisabel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaxisabel&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/paulaxisabel/paulaxisabel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paulaxisabel&show_icons=true&line_height=34&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
+</a>
 
-<p align="left"> <a href="https://www.codepen.io/paulaxisabel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/paulaxisabel" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paulasigno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/codewithpau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/paulaxisabel"><img src="https://github-readme-stats.vercel.app/api?username=paulaxisabel&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&show_icons=true" alt="paulaxisabel's GitHub stats" /></a>
-
-<a href="http://www.github.com/paulaxisabel"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paulaxisabel&stroke=ffffff&background=171717&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/paulaxisabel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaxisabel&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Codewars Stats:
-<img width="400px" src="https://www.codewars.com/users/codewithpau/badges/large" alt="codewithpau's Codewars stats">
+<br>
+<br>
+<img width="400px" src="https://www.codewars.com/users/codewithpau/badges/large" alt="Paula's Codewars stats">
