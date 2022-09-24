@@ -14,7 +14,7 @@ My name is **Paula** and I am a 💻 **Fullstack Software Engineer**. I make ele
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=ffed00)](https://www.linkedin.com/in/paulasigno)
 [![Codepen](https://img.shields.io/badge/CodePen-Follow-informational?style=flat&logo=codepen&logoColor=white&color=ffed00)](https://codepen.io/paulaxisabel/)
 [![GMail](https://img.shields.io/badge/GMail-Mail-informational?style=flat&logo=gmail&logoColor=white&color=ffed00)](mailto:picsigno@gmail.com)
-[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Github%20Visits&color=ffed00&logoColor=white&style=flat)](https://github.com/paulaxisabel)
+[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=ffed00&logoColor=white&style=flat)](https://github.com/paulaxisabel)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ffed00)
