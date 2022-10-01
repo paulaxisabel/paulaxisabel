@@ -44,6 +44,8 @@ My name is **Paula** and I am a 💻 **Fullstack Software Engineer**. I make ele
 </tr>
 </table>
 
+![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulaxisabel&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
+
 ## 🤝🏻 Connect With Me
 [![Twitter](https://img.shields.io/badge/@codewithpau-1d1f21?style=flat&logo=twitter&logoColor=1DA1F2)](https://www.twitter.com/codewithpau)
 [![Linkedin](https://img.shields.io/badge/Paula%20Isabel%20Signo-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
