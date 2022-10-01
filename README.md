@@ -1,3 +1,4 @@
+[![](./github-header.png)](https://linktr.ee/codewithpau)
 # 👋 Hello, folks 
 My name is **Paula** and I am a 💻 **Fullstack Software Engineer**. I make elegantly professional 🌐 **websites** and also 📝 **write some blogs**. 🌈    
 
