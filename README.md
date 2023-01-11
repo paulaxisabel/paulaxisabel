@@ -56,13 +56,12 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 </div>
 
 <!-- Blog Action Workflow -->
-## 🖊️ Blogs posts
 
+## 🖊️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+
+<!-- GH Activity Action Workflow -->
 
 ## ✨ Recent GitHub Activity
 <!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
