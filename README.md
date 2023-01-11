@@ -48,11 +48,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
   <!--  Crowdfunding   -->
   <a href="https://github.com/paulaxisabel/crowdfunding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=crowdfunding&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Crowdfunding"></a>
   <!--  Job Listings   -->
-  <a href="https://github.com/paulaxisabel/job-listings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=job-listings&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <a href="https://github.com/paulaxisabel/job-listings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=job-listings&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Job Listings"></a>
   <!--  Todo   -->
-  <a href="https://github.com/paulaxisabel/Todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=Todo&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <a href="https://github.com/paulaxisabel/Todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=Todo&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Todo"></a>
   <!--  Shortly   -->
-  <a href="https://github.com/paulaxisabel/shortly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=shortly&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio Ideas"></a>
+  <a href="https://github.com/paulaxisabel/shortly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=shortly&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Shortly"></a>
 </div>
 
 <!-- Blog Action Workflow -->
