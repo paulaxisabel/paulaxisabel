@@ -7,6 +7,7 @@
 [![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/paulaxisabel/)
 [![GMail](https://img.shields.io/badge/codewithpaula@gmail.com-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
 
+<!-- About -->
 ## 👋 About Me
 
 Hello,
@@ -15,6 +16,7 @@ My name is Paula Isabel. I'm a Frontend developer who loves coming up with new p
 
 Feel free to DM or ask me any questions you may have. 
 
+<!-- Tech Stack -->
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=flat&logo=CSS3&logoColor=1572B6)
@@ -37,14 +39,30 @@ Feel free to DM or ask me any questions you may have.
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=flat&logo=GitHub&logoColor=ffffff)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-1d1f21?style=flat&logo=Gitlab&logoColor=FC6D26)
 
-## &#x1f4c8; Stats
-<table>
-<tr>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaxisabel&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</td>
-<td>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulaxisabel&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffed00&bg_color=1d1f21" alt="Paula's GitHub Stats" />
-</td>
-</tr>
-</table>
+<!-- Featured Projects -->
+
+## 📂 Featured Projects
+As an open source enthusiast, I keep all of my personal projects on GitHub and Codepen. I've completed over 20 projects, but here are a few that stand out:
+
+<div align="left">
+  <!--  Crowdfunding   -->
+  <a href="https://github.com/paulaxisabel/crowdfunding"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=crowdfunding&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Crowdfunding"></a>
+  <!--  Job Listings   -->
+  <a href="https://github.com/paulaxisabel/job-listings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=job-listings&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Hashnode Clone"></a>
+  <!--  Todo   -->
+  <a href="https://github.com/paulaxisabel/Todo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=Todo&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio website"></a>
+  <!--  Shortly   -->
+  <a href="https://github.com/paulaxisabel/shortly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=shortly&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Portfolio Ideas"></a>
+</div>
+
+<!-- Blog Action Workflow -->
+## 🖊️ Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+## ✨ Recent GitHub Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
