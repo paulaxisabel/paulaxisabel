@@ -1,14 +1,19 @@
-[![](./github-header.png)](https://linktr.ee/codewithpau)
-# 👋 Hello, folks 
-My name is **Paula** and I am a 💻 **Fullstack Software Engineer**. I make elegantly professional 🌐 **websites** and also 📝 **write some blogs**. 🌈    
+<!-- Banner Image -->
+[![](./githubheader.png)](https://linktr.ee/codewithpau)
 
-* 😄   she/her
-* 💻   SWE at 100devs
-* 🎯   AWS Certified Cloud Practitioner
-* ✍🏻   I am a Technical Writer at <a href="https://ossph.org/">Open Source Software PH</a>
-* 🌱   Currently learning APIs, Javascript, and OOP
-* ⛳   Contributing to Open Source Projects, writing, learning languages
-* 🧐   Interested in UX/UI Design
+[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/paulaxisabel)
+[![Twitter](https://img.shields.io/twitter/follow/codewithpau?logo=twitter&style=flat&color=515151&labelColor=1d1f21)](https://www.twitter.com/codewithpau)
+[![Linkedin](https://img.shields.io/badge/Paula%20Isabel%20Signo-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
+[![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/paulaxisabel/)
+[![GMail](https://img.shields.io/badge/codewithpaula@gmail.com-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
+
+## 👋 About Me
+
+Hello,
+
+My name is Paula Isabel. I'm a Frontend developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the OSSPH blog.
+
+Feel free to DM or ask me any questions you may have. 
 
 ## 🔧 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d1f21?style=flat&logo=javascript)
@@ -43,12 +48,3 @@ My name is **Paula** and I am a 💻 **Fullstack Software Engineer**. I make ele
 </td>
 </tr>
 </table>
-
-![Paula's Activity Graph](https://activity-graph.herokuapp.com/graph?username=paulaxisabel&bg_color=1d1f21&color=ffffff&line=ffed00&point=ffffff&area=true&count_private=true&)
-
-## 🤝🏻 Connect With Me
-[![Twitter](https://img.shields.io/badge/@codewithpau-1d1f21?style=flat&logo=twitter&logoColor=1DA1F2)](https://www.twitter.com/codewithpau)
-[![Linkedin](https://img.shields.io/badge/Paula%20Isabel%20Signo-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
-[![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/paulaxisabel/)
-[![GMail](https://img.shields.io/badge/codewithpaula@gmail.com-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
-[![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/paulaxisabel)
