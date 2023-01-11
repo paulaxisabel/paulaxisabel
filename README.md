@@ -12,7 +12,7 @@
 
 Hello,
 
-My name is Paula Isabel. I'm a Frontend developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the OSSPH blog.
+My name is Paula Isabel. I'm a Frontend developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the [OSSPH blog](https://blog.ossph.org/author/paula/).
 
 Feel free to DM or ask me any questions you may have. 
 
@@ -55,7 +55,7 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
   <a href="https://github.com/paulaxisabel/shortly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=shortly&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Shortly"></a>
 </div>
 
-## 🖊️ Blog posts
+## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [13 Open Source Headless CMS You Should Consider for Your Next Project](https://blog.ossph.org/open-source-headless-cms/)
