@@ -55,13 +55,12 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
   <a href="https://github.com/paulaxisabel/shortly"><img src="https://github-readme-stats.vercel.app/api/pin/?username=paulaxisabel&repo=shortly&theme=react&bg_color=1d1f21&title_color=6CD63E&icon_color=0D74E7&hide_border=true&show_icons=true&" alt="Shortly"></a>
 </div>
 
-<!-- Blog Action Workflow -->
-
 ## 🖊️ Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- GH Activity Action Workflow -->
-
 ## ✨ Recent GitHub Activity
+
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
