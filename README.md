@@ -3,9 +3,9 @@
 
 [![Visits](https://komarev.com/ghpvc/?username=paulaxisabel&logo=GitHub&label=Visitors&color=1d1f21&logoColor=white&style=flat)](https://github.com/paulaxisabel)
 [![Twitter](https://img.shields.io/badge/codewithpau-1d1f21?style=flat&logo=twitter&logoColor=00acee)](https://www.twitter.com/codewithpau)
-[![Linkedin](https://img.shields.io/badge/Paula%20Isabel%20Signo-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
 [![Codepen](https://img.shields.io/badge/@paulaxisabel-1d1f21?style=flat&logo=codepen&logoColor=white)](https://codepen.io/paulaxisabel/)
-[![GMail](https://img.shields.io/badge/codewithpaula@gmail.com-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Let%27s%20Connect%21-1d1f21?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/paulasigno)
+[![GMail](https://img.shields.io/badge/Mail%20Me%21-1d1f21?style=flat&logo=gmail&logoColor=white)](mailto:codewithpaula@gmail.com)
 
 <!-- About -->
 ## 👋 About Me
