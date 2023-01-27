@@ -128,10 +128,10 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [15 Best Tech Podcasts You Should Listen To](https://blog.ossph.org/best-tech-podcasts-you-should-listen-to/)
 - [7 Best Open Source Alternatives to Notion](https://blog.ossph.org/best-open-source-alternatives-to-notion/)
 - [13 Open Source Headless CMS You Should Consider for Your Next Project](https://blog.ossph.org/open-source-headless-cms/)
 - [TensorStore: Google&#39;s Open-Source C++ And Python Library for High-Performance, Scalable Array Storage](https://blog.ossph.org/google-ai-introduces-a-new-open-source-library-for-array-storage/)
-- [40+ Beginner-Friendly Open Source Projects to Contribute to Hacktoberfest 2022](https://blog.ossph.org/github/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
