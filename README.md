@@ -137,6 +137,6 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## ✨ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4798](https://github.com/EddieHubCommunity/LinkFree/pull/4798) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 💪 Opened PR [#1](https://github.com/paulaxisabel/LinkFree/pull/1) in [paulaxisabel/LinkFree](https://github.com/paulaxisabel/LinkFree)
+1. ❌ Closed PR [#5249](https://github.com/EddieHubCommunity/LinkFree/pull/5249) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 💪 Opened PR [#5249](https://github.com/EddieHubCommunity/LinkFree/pull/5249) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
