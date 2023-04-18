@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Write a Good Git Commit Message](https://blog.ossph.org/how-to-write-a-good-git-commit-message/)
 - [Unpacking the package.json - Explaining the most commonly used parts of NPM&#39;s package.json](https://blog.ossph.org/unpacking-the-package-json-explaining-the-most-commonly-used-parts-of-npms-package-json/)
 - [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://blog.ossph.org/a-beginners-guide-to-contributing-to-open-source-projects/)
 - [Thinking like a computer scientist: Considering the time complexity in your JavaScript code algorithm](https://blog.ossph.org/thinking-like-a-comuter-scientist-considering-the-time-complexity-in-your-javascript-code-algorithm/)
 - [Top 10 Open Source Tools To Help You In Your Professional Work](https://blog.ossph.org/top-10-open-source-tools-to-help-you-in-your-professional-work/)
-- [Converting Your Closed Source GitHub Project To Open Source](https://blog.ossph.org/converting-your-closed-source-github-project-to-open-source/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
