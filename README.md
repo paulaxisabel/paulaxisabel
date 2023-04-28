@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Semantic HTML and Why is it so important?](https://blog.ossph.org/what-is-semantic-html-and-why-is-it-so-important/)
 - [Denz, a Filipino Open Source Developer, and How His App Became an Instant Viral Hit](https://blog.ossph.org/denz-a-filipino-open-source-developer-and-how-his-app-became-an-instant-viral-hit/)
 - [Top Modern Programming Languages You Should Use At Least Once](https://blog.ossph.org/top-modern-programming-languages-you-should-use-at-least-once/)
 - [How to Write a Good Git Commit Message](https://blog.ossph.org/how-to-write-a-good-git-commit-message/)
 - [Unpacking the package.json - Explaining the most commonly used parts of NPM&#39;s package.json](https://blog.ossph.org/unpacking-the-package-json-explaining-the-most-commonly-used-parts-of-npms-package-json/)
-- [A Beginner&#39;s Guide to Contributing to Open Source Projects](https://blog.ossph.org/a-beginners-guide-to-contributing-to-open-source-projects/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
