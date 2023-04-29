@@ -128,7 +128,7 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Open-Source CSS Framework You Can Easily Use For Your Next Project](https://blog.ossph.org/untitled/)
+- [Top Open-Source CSS Framework You Can Easily Use For Your Next Project](https://blog.ossph.org/top-ten-open-source-css-framework-you-can-easily-use-for-your-next-project/)
 - [What is Semantic HTML and Why is it so important?](https://blog.ossph.org/what-is-semantic-html-and-why-is-it-so-important/)
 - [Denz, a Filipino Open Source Developer, and How His App Became an Instant Viral Hit](https://blog.ossph.org/denz-a-filipino-open-source-developer-and-how-his-app-became-an-instant-viral-hit/)
 - [Top Modern Programming Languages You Should Use At Least Once](https://blog.ossph.org/top-modern-programming-languages-you-should-use-at-least-once/)
