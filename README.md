@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to hide HTML elements while printing using CSS 🥴](https://blog.ossph.org/how-to-hide-elements-while-printing-using-css/)
 - [The story of Open Source Software PH &lpar;OSSPH&rpar;](https://blog.ossph.org/the-story-of-open-source-software-ph-ossph/)
 - [Understanding JavaScript Promises and Async/Await](https://blog.ossph.org/understading-javascript-promises-and-async-await/)
 - [WTH is Regular Expressions and how to use it in JavaScript](https://blog.ossph.org/wth-is-regular-expressions-and-how-to-use-it-in-javascript/)
 - [12 Best Open Source Alternatives to Google Analytics](https://blog.ossph.org/best-open-source-alternatives-to-google-analytics/)
-- [Open source vs. proprietary software: Compare and contrast the advantages and disadvantages of using open source and proprietary software for various use cases](https://blog.ossph.org/open-source-vs-proprietary-software-compare-and-contrast-the-advantages-and-disadvantages-of-using-open-source-and-proprietary-software-for-various-use-cases/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
