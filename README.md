@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/)
 - [11 Lesser-Known HTML Tags That Can Enhance Your Web Development Skills](https://blog.ossph.org/lesser-known-html-tags/)
 - [7 Best Open Source Slack Alternatives for Team Communication](https://blog.ossph.org/best-open-source-alternatives-to-slack/)
 - [10 Useful Websites for Web Developers to Boost Productivity](https://blog.ossph.org/10-useful-websites-for-web-developers-to-boost-productivity/)
 - [Essential VSCode Extensions for Beginner Web Developers: Part 2](https://blog.ossph.org/10-essential-vscode-extensions-for-beginner-web-developers-part-2/)
-- [Exploring Functional Programming in JavaScript](https://blog.ossph.org/exploring-functional-programming-in-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
