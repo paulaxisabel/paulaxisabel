@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting and Platform Choices for Open Source Projects](https://blog.ossph.org/hosting-and-platform-choices-for-open-source-projects/)
 - [Introduction to Open-Source Hardware: Raspberry Pi, Arduino, and More](https://blog.ossph.org/introduction-to-open-source-hardware-raspberry-pi-arduino-and-more/)
 - [Why small contributions matter greatly?](https://blog.ossph.org/why-small-contributions-matter-greatly/)
 - [10 Programming Principles Every Software Developer Should Know](https://blog.ossph.org/programming-principles-every-developer-should-know/)
 - [11 Lesser-Known HTML Tags That Can Enhance Your Web Development Skills](https://blog.ossph.org/lesser-known-html-tags/)
-- [7 Best Open Source Slack Alternatives for Team Communication](https://blog.ossph.org/best-open-source-alternatives-to-slack/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
