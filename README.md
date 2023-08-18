@@ -138,6 +138,6 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## ✨ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1386](https://github.com/processing/p5.js-website/pull/1386) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
-2. 💪 Opened PR [#46](https://github.com/OSSPhilippines/ossph.org/pull/46) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+1. 🎉 Merged PR [#1407](https://github.com/processing/p5.js-website/pull/1407) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
+2. 🎉 Merged PR [#1386](https://github.com/processing/p5.js-website/pull/1386) in [processing/p5.js-website](https://github.com/processing/p5.js-website)
 <!--END_SECTION:activity-->
