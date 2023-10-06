@@ -138,6 +138,6 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## ✨ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#34](https://github.com/OSSPhilippines/awesome-pinoy-made/pull/34) in [OSSPhilippines/awesome-pinoy-made](https://github.com/OSSPhilippines/awesome-pinoy-made)
-2. 🗣 Commented on [#5719](https://github.com/processing/p5.js/issues/5719#issuecomment-1702196287) in [processing/p5.js](https://github.com/processing/p5.js)
+1. 💪 Opened PR [#9919](https://github.com/EbookFoundation/free-programming-books/pull/9919) in [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+2. 💪 Opened PR [#34](https://github.com/OSSPhilippines/awesome-pinoy-made/pull/34) in [OSSPhilippines/awesome-pinoy-made](https://github.com/OSSPhilippines/awesome-pinoy-made)
 <!--END_SECTION:activity-->
