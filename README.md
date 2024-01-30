@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 5 Essential Open-Source Android Apps for Boosting Productivity](https://blog.ossph.org/top-5-essential-oss-android-apps-for-boosting-productivity/)
 - [Open Source in Philippine Education System](https://blog.ossph.org/open-source-in-philippine-education-system/)
 - [Hacktoberfest History: Celebrating a Decade of Open Source Contribution](https://blog.ossph.org/hacktoberfest-history-celebrating-a-decade-of-open-source-contribution/)
 - [Hacktoberfest 2023: Everything You Need to Know](https://blog.ossph.org/hacktoberfest-2023-everything-you-need-to-know/)
 - [Top 10 Oldest Open Source Projects Still Active Today](https://blog.ossph.org/top-10-oldest-open-source-projects-still-active-today/)
-- [LibreOffice: The Power of Open-Source in Office Productivity](https://blog.ossph.org/libreoffice-the-power-of-open-source-in-office-productivity/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
