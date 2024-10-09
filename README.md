@@ -12,7 +12,7 @@
 
 Hello,
 
-My name is Paula Isabel. I'm a Frontend developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the [OSSPH blog](https://blog.ossph.org/author/paula/).
+My name is Paula Isabel. I'm a Web Application developer who loves coming up with new projects and ideas. I am passionate about open source and actively contribute to it. I've recently developed an interest in writing technical articles in order to help other developers. My work can be found on the [OSSPH blog](https://blog.ossph.org/).
 
 Feel free to DM or ask me any questions you may have. 
 
@@ -51,7 +51,7 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
       <h3 align="center">Signo</h3>
         <br />
         <a target="_blank" href="https://signo-company.vercel.app/">
-            <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/signo.png" width="100%" alt="Signo"/>
+            <img src="./images/signo.png" width="100%" alt="Signo"/>
         </a>
         <br />
         <p align="center">
@@ -69,7 +69,7 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
       <h3 align="center">Dine Restaurant</h3>
         <br />
       <a target="_blank" href="https://dine-by-paula.vercel.app/">
-            <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/dine.PNG" width="100%"  alt="Dine Restaurant"/>
+            <img src="./images/dine.png" width="100%"  alt="Dine Restaurant"/>
         </a>
         <br />
         <p align="center">
@@ -87,27 +87,27 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Shortly</h3>
+      <h3 align="center">Blockchain for Executives</h3>
       <br />
-        <a target="_blank" href="https://shortly-by-paula.vercel.app/">
-          <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/shortly.png" width="100%" alt="Shortly"/>
+        <a target="_blank" href="https://www.blockchainexecutivespodcast.com/">
+          <img src="./images/bfe.png" width="100%" alt="Blockchain for Executives"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/paulaxisabel/shortly" target="_blank">
+  <a href="https://github.com/kquirapas/bfe-website-next" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=1d1f21&style=flat&logo=github&logo-color=white"/>
   </a>
-  <a href="https://shortly-by-paula.vercel.app/" target="_blank">
+  <a href="https://www.blockchainexecutivespodcast.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=1d1f21&style=flat&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, Sass, & Javascript</strong> - A landing page that utilizes the shrtcode API to shorten any valid URL</p>
+        <p><strong>NextJS, & Tailwind CSS</strong> - A website for a podcast on tech and business made for entrepreneurs</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Arch</h3>
         <br />
         <a target="_blank" href="https://arch-company.vercel.app/">
-          <img src="https://github.com/paulaxisabel/portfolio-v2/blob/main/img/arch.png" width="100%" alt="Arch"/>
+          <img src="./images/arch.png" width="100%" alt="Arch"/>
         </a>
         <br />
         <p align="center">
