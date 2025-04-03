@@ -128,11 +128,11 @@ As an open source enthusiast, I keep all of my personal projects on GitHub and C
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Balota: An Open-Source Website to Help You Generate Your Ballot for the 2025 Elections](https://blog.ossph.org/introducing-balota-an-open-source-website-to-help-you-generate-your-ballot-for-the-2025-elections/)
 - [Ctrl Alt Run: Where Techies Traded Keyboards for Running Shoes](https://blog.ossph.org/ctrl-alt-run-where-techies-traded-keyboards-for-running-shoes/)
 - [Weaving Tomorrow&#39;s Techscape: Key Takeaways from SOSCONPH 2024](https://blog.ossph.org/weaving-tomorrows-techscape-key-takeaways-from-sosconph-2024/)
 - [AI &amp; Open Source: The Perfect Match](https://blog.ossph.org/ai-open-source-the-perfect-match/)
 - [OCaml Manila: Inaugural Hackathon Night](https://blog.ossph.org/ocaml-manila-inaugural-hackathon-night/)
-- [Learning, Sharing, and Growing: The OSSPH Experience at PyCon PH 2024](https://blog.ossph.org/the-ossph-experience-at-pycon-ph-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Recent GitHub Activity
