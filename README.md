@@ -185,10 +185,10 @@ Writing technical articles to share knowledge and help fellow developers grow. C
 
 <!-- BLOG-POST-LIST:START -->
 - [BetterGov.ph: How ₱3,000 and civic anger sparked a movement for transparency](https://blog.ossph.org/bettergov-ph-how-3-000-and-civic-anger-sparked-a-movement-for-transparency/)
-- [FRUI: The Minimalist React UI Component Library You've Been Waiting For](https://blog.ossph.org/frui-the-minimalist-react-ui-component-library-youve-been-waiting-for/)
+- [FRUI: The Minimalist React UI Component Library You&#39;ve Been Waiting For](https://blog.ossph.org/frui-the-minimalist-react-ui-component-library-youve-been-waiting-for/)
 - [Introducing Balota: An Open-Source Website to Help You Generate Your Ballot for the 2025 Elections](https://blog.ossph.org/introducing-balota-an-open-source-website-to-help-you-generate-your-ballot-for-the-2025-elections/)
 - [Ctrl Alt Run: Where Techies Traded Keyboards for Running Shoes](https://blog.ossph.org/ctrl-alt-run-where-techies-traded-keyboards-for-running-shoes/)
-- [Weaving Tomorrow's Techscape: Key Takeaways from SOSCONPH 2024](https://blog.ossph.org/weaving-tomorrows-techscape-key-takeaways-from-sosconph-2024/)
+- [Weaving Tomorrow&#39;s Techscape: Key Takeaways from SOSCONPH 2024](https://blog.ossph.org/weaving-tomorrows-techscape-key-takeaways-from-sosconph-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
